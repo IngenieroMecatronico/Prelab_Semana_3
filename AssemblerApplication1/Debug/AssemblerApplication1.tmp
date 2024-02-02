@@ -1,0 +1,52 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\ferma\Desktop\Progra de micros\Revision\AssemblerApplication1\AssemblerApplication1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\ferma\Desktop\Progra de micros\Revision\AssemblerApplication1\AssemblerApplication1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\ferma\Desktop\Progra de micros\Revision\AssemblerApplication1\AssemblerApplication1\Debug\AssemblerApplication1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication1.map</FILE>
+  <FILE>AssemblerApplication1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <SETUP><FILE>C:\Users\ferma\Desktop\Progra de micros\Revision\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>26</LINE></SETUP>
+  <Contador><FILE>C:\Users\ferma\Desktop\Progra de micros\Revision\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>47</LINE></Contador>
+  <LOOP><FILE>C:\Users\ferma\Desktop\Progra de micros\Revision\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>54</LINE></LOOP>
+  <PresionaPB1><FILE>C:\Users\ferma\Desktop\Progra de micros\Revision\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>95</LINE></PresionaPB1>
+  <IncrementaPB1><FILE>C:\Users\ferma\Desktop\Progra de micros\Revision\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>103</LINE></IncrementaPB1>
+  <PresionaPB2><FILE>C:\Users\ferma\Desktop\Progra de micros\Revision\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>117</LINE></PresionaPB2>
+  <DecrementaPB2><FILE>C:\Users\ferma\Desktop\Progra de micros\Revision\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>125</LINE></DecrementaPB2>
+  <PresionaPB3><FILE>C:\Users\ferma\Desktop\Progra de micros\Revision\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>139</LINE></PresionaPB3>
+  <IncrementaPB3><FILE>C:\Users\ferma\Desktop\Progra de micros\Revision\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>147</LINE></IncrementaPB3>
+  <PresionaPB4><FILE>C:\Users\ferma\Desktop\Progra de micros\Revision\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>160</LINE></PresionaPB4>
+  <DecrementaPB4><FILE>C:\Users\ferma\Desktop\Progra de micros\Revision\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>168</LINE></DecrementaPB4>
+  <PresionaPB5><FILE>C:\Users\ferma\Desktop\Progra de micros\Revision\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>182</LINE></PresionaPB5>
+  <SumaPB5><FILE>C:\Users\ferma\Desktop\Progra de micros\Revision\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>192</LINE></SumaPB5>
+  <RetrasoPB1><FILE>C:\Users\ferma\Desktop\Progra de micros\Revision\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>98</LINE></RetrasoPB1>
+  <ActivaLedInc><FILE>C:\Users\ferma\Desktop\Progra de micros\Revision\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>110</LINE></ActivaLedInc>
+  <RetrasoPB2><FILE>C:\Users\ferma\Desktop\Progra de micros\Revision\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>120</LINE></RetrasoPB2>
+  <ActivaLedDec><FILE>C:\Users\ferma\Desktop\Progra de micros\Revision\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>133</LINE></ActivaLedDec>
+  <RetrasoPB3><FILE>C:\Users\ferma\Desktop\Progra de micros\Revision\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>142</LINE></RetrasoPB3>
+  <ActivaLedSum><FILE>C:\Users\ferma\Desktop\Progra de micros\Revision\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>154</LINE></ActivaLedSum>
+  <RetrasoPB4><FILE>C:\Users\ferma\Desktop\Progra de micros\Revision\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>163</LINE></RetrasoPB4>
+  <ActivaLedRes><FILE>C:\Users\ferma\Desktop\Progra de micros\Revision\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>176</LINE></ActivaLedRes>
+  <RetrasoPB5><FILE>C:\Users\ferma\Desktop\Progra de micros\Revision\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>187</LINE></RetrasoPB5>
+  <Sumaverdes><FILE>C:\Users\ferma\Desktop\Progra de micros\Revision\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>199</LINE></Sumaverdes>
+  <Sumamarillos><FILE>C:\Users\ferma\Desktop\Progra de micros\Revision\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>206</LINE></Sumamarillos>
+  <ActivaLedSuma><FILE>C:\Users\ferma\Desktop\Progra de micros\Revision\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>226</LINE></ActivaLedSuma>
+ </LABELS>
+</ASSEMBLER_INFO>
